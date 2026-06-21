@@ -2,4 +2,4 @@ __pycache__/
 *.pyc
 *.txt.out
 .env
-output/ 
+output/
