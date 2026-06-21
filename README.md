@@ -8,7 +8,7 @@ instead.
 For sources with a real public API (crt.sh certificate transparency), it
 fetches live data directly instead of just building a search-engine query.
 
-```
+``` 
 > usage
 [+] list every category
 [+] run one category, or all of them, for a domain

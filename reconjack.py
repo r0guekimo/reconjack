@@ -406,7 +406,7 @@ def main():
             print("[!] No results returned.")
 
     if args.all:
-        for key in DORKS:
+        for key in DORKS: 
             run_category(key, args.domain, args.mode)
     elif args.category:
         if args.category not in DORKS:
