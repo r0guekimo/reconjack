@@ -21,7 +21,7 @@ fetches live data directly instead of just building a search-engine query.
 ```bash
 pip install -r requirements.txt
 ```
-
+ 
 ## Usage
 
 List all available categories:
